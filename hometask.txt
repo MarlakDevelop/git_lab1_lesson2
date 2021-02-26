@@ -1,1 +1,6 @@
 Добавлено  with nice buttons on his jacket (buttons branch) в первую строку файла README
+
+
+heat added
+Merge remote-tracking branch 'origin/hat' into boots_buttons
+boots_buttons and hat merge to hat
